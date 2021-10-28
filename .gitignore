@@ -3,3 +3,6 @@
 *.net
 
 !third.net
+
+{aeiou}*.py
+
