@@ -9,3 +9,4 @@ https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
 https://github.com/DecisionsDev/ruledesigner
 https://github.com/DecisionsDev/odm-for-developers
 https://github.com/hemansnation
+https://training.github.com/downloads/github-git-cheat-sheet/
