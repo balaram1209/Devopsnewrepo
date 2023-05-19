@@ -14,3 +14,5 @@ https://training.github.com/downloads/github-git-cheat-sheet/
 https://github.com/LeadCoding/3-weeks-Google-Prep
 
 https://github.com/dair-ai/ML-YouTube-Courses
+
+https://github.com/dair-ai/Prompt-Engineering-Guide
